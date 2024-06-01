@@ -61,7 +61,7 @@ export const menuData = {
   ],
   menu: [
     {
-      title: "our company",
+      title: "About me",
       link: "/about",
       label: "visit about page",
     },
