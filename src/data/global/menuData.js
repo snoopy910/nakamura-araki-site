@@ -19,17 +19,17 @@ export const menuData = {
   },
   homeLink: "/",
   address: {
-    office: "Designo Central Office",
-    street: "3886 Wellington Street",
-    city: "Toronto, Ontario M9C 3J5",
+    office: "Central Office",
+    street: "7802 TIDWELL RD",
+    city: "HOUSTON",
   },
   contact: {
     title: "Contact Us (Central Office)",
-    phone: "+1 253-863-8967",
-    phoneLink: "tel:+1 253-863-8967",
+    phone: "+1 856-549-1102",
+    phoneLink: "tel:+1 856-549-1102",
     phoneLabel: "call us via our official number",
-    email: "contact@designo.co",
-    emailLink: "mailto:contact@designo.co",
+    email: "NAKAMURAARAKI336@outlook.com",
+    emailLink: "mailto:NAKAMURAARAKI336@outlook.com",
     emailLabel: "send us an email"
   },
   social: [
