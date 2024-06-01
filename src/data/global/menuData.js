@@ -9,12 +9,12 @@ import instagram from "../../assets/images/shared/desktop/icon-instagram.svg";
 export const menuData = {
   header: {
     headerLogo: logoDark,
-    headerLogoAlt: "designo web agency",
+    headerLogoAlt: "Nakamura Araki web agency",
     label: "visit homepage",
   },
   footer: {
     footerLogo: logoLight,
-    footerLogoAlt: "designo",
+    footerLogoAlt: "Nakamura Araki",
     label: "go back to homepage",
   },
   homeLink: "/",
@@ -30,7 +30,7 @@ export const menuData = {
     phoneLabel: "call us via our official number",
     email: "NAKAMURAARAKI336@outlook.com",
     emailLink: "mailto:NAKAMURAARAKI336@outlook.com",
-    emailLabel: "send us an email"
+    emailLabel: "send us an email",
   },
   social: [
     {
