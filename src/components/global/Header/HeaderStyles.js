@@ -21,19 +21,26 @@ export const HeaderWrap = styled.div`
   display: flex;
   align-items: center;
 
-  & > * {
+  /* & > * {
     flex: 1;
-  }
+  } */
 `;
 export const HeaderLogoWrap = styled.div``;
-export const HeaderLogoLink = styled(Link)``;
-export const HeaderLogo = styled.img`
-  max-width: 12.25rem;
-  height: auto;
-  @media screen and (max-width: 686px) {
-    max-width: 10.25rem;
+export const HeaderLogoLink = styled(Link)`
+  font-size: 30px;
+  color: black;
+  &:hover {
+    border: none;
+    color: rgb(150, 150, 150);
   }
 `;
+// export const HeaderLogo = styled.img`
+//   max-width: 12.25rem;
+//   height: auto;
+//   @media screen and (max-width: 686px) {
+//     max-width: 10.25rem;
+//   }
+// `;
 
 export const HeaderMenu = styled.nav`
   flex: 5;
