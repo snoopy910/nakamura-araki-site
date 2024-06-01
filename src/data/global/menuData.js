@@ -36,27 +36,27 @@ export const menuData = {
     {
       label: "follow us on facebook",
       icon: facebook,
-      link: "https://facebook.com.designo",
+      link: "https://facebook.com",
     },
     {
       label: "subscribe to our youtube channel",
       icon: youtube,
-      link: "https://youtube.com.designo",
+      link: "https://youtube.com",
     },
     {
       label: "follow us on twitter",
       icon: twitter,
-      link: "https://twitter.com.designo",
+      link: "https://twitter.com",
     },
     {
       label: "join us on pinterest",
       icon: pinterest,
-      link: "https://pinterest.com.designo",
+      link: "https://pinterest.com",
     },
     {
       label: "follow us on instagram",
       icon: instagram,
-      link: "https://instagram.com.designo",
+      link: "https://instagram.com",
     },
   ],
   menu: [
