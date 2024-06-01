@@ -44,15 +44,16 @@ export const ListImageWrap = styled.div`
   justify-content: center;
   align-items: center;
   min-height: 15rem;
-  background-image: url(${bgCircle});
-  background-repeat: no-repeat;
-  background-position: 0rem 0rem;
 
   @media ${QUERIES.tablet} {
     background-position: 5rem 0rem;
   }
 `;
-export const ListImage = styled.img``;
+export const ListImage = styled.img`
+  background-image: url(${bgCircle});
+  background-repeat: no-repeat;
+  background-position: 0rem 0rem;
+`;
 export const ListName = styled.h3`
   margin-bottom: 2rem;
   text-transform: uppercase;
