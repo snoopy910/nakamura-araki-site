@@ -151,6 +151,7 @@ export const FooterContactTitle = styled.p``;
 export const FooterContact = styled.a`
   font-weight: var(--font-weight-200);
   color: hsl(0, 0%, 59%) !important;
+  white-space: nowrap;
 
   &:hover {
     border: none;
