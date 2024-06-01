@@ -66,7 +66,7 @@ export const menuData = {
       label: "visit about page",
     },
     {
-      title: "locations",
+      title: "location",
       link: "/locations",
       label: "visit locations page",
     },

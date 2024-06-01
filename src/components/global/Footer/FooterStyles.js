@@ -8,7 +8,7 @@ export const FooterContainer = styled.footer`
   min-height: 0rem;
 
   a {
-    color: var(--color-pry-300);
+    color: rgb(150, 150, 150);
 
     &:hover {
       color: var(--color-pry-300);

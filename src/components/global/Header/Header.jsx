@@ -4,7 +4,6 @@ import {
   HeaderWrap,
   HeaderLogoWrap,
   HeaderLogoLink,
-  HeaderLogo,
   HeaderMenu,
   HeaderMobileNav,
   MobileNav,
@@ -40,11 +39,7 @@ const Header = ({ data }) => {
         <HeaderWrap>
           <HeaderLogoWrap>
             <HeaderLogoLink to={data.homeLink} aria-label={data.header.label}>
-              <HeaderLogo
-                src={data.header.headerLogo}
-                alt={data.header.headerLogoAlt}
-                onClick={handleMenuClick}
-              ></HeaderLogo>
+              Nakamura Araki
             </HeaderLogoLink>
           </HeaderLogoWrap>
           <HeaderMenu>

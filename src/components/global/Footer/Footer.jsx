@@ -6,7 +6,6 @@ import {
   FooterMenu,
   FooterLogoWrap,
   FooterLogoLink,
-  FooterLogo,
   FooterNavWrap,
   FooterNav,
   FooterNavItem,
