@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Designo Live Link](https://designo-software-agency.vercel.app/)
+- [Designo Live Link](https://nakamura-araki-site.vercel.app/)
 
 ## My process
 
