@@ -24,7 +24,7 @@ export const menuData = {
     city: "HOUSTON",
   },
   contact: {
-    title: "Contact Us (Central Office)",
+    title: "Contact Me (Central Office)",
     phone: "+1 856-549-1102",
     phoneLink: "tel:+1 856-549-1102",
     phoneLabel: "call us via our official number",

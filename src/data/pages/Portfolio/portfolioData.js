@@ -21,7 +21,7 @@ export const portfolioData = [
     id: "web-design",
     header: "web design",
     subHeader:
-      "We build websites that serve as powerful marketing tools and bring memorable brand experiences.",
+      "I build websites that serve as powerful marketing tools and bring memorable brand experiences.",
     image: webDesign,
     imageAlt: "a web app on a desktop",
     cta: "view projects",
@@ -29,7 +29,7 @@ export const portfolioData = [
     label: "explore our web design projects",
     title: "Web Design - We Design Web Applications",
     metaDescription:
-      "Explore our web applictions. We build websites that serve as powerful marketing tools and bring memorable brand experiences.",
+      "Explore our web applictions. I build websites that serve as powerful marketing tools and bring memorable brand experiences.",
     projects: [
       {
         image: express,
@@ -96,15 +96,15 @@ export const portfolioData = [
     id: "app-design",
     header: "app design",
     subHeader:
-      "Our mobile designs bring intuitive digital solutions to your customers right at their fingertips.",
+      "My mobile designs bring intuitive digital solutions to your customers right at their fingertips.",
     image: appDesign,
     imageAlt: "a mobile phone",
     cta: "view projects",
     class: "small-1",
-    label: "explore our app design projects",
+    label: "explore my app design projects",
     title: "App Design - We Design Mobile Applications",
     metaDescription:
-      "Explore our mobile applictions. Our mobile designs bring intuitive digital solutions to your customers right at their fingertips.",
+      "Explore my mobile applictions. My mobile designs bring intuitive digital solutions to your customers right at their fingertips.",
     projects: [
       {
         image: airfilter,
@@ -163,7 +163,7 @@ export const portfolioData = [
     id: "graphic-design",
     header: "graphic design",
     subHeader:
-      "We deliver eye-catching branding materials that are tailored to meet your business objectives.",
+      "I deliver eye-catching branding materials that are tailored to meet your business objectives.",
     image: graphicDesign,
     imageAlt: "a beautiful design",
     cta: "view projects",
@@ -171,7 +171,7 @@ export const portfolioData = [
     label: "explore our graphic design projects",
     title: "Graphics Design - We Design Beautiful Graphics",
     metaDescription:
-      "Explore our graphic designs. We deliver eye-catching branding materials that are tailored to meet your business objectives.",
+      "Explore my graphic designs. We deliver eye-catching branding materials that are tailored to meet your business objectives.",
     projects: [
       {
         image: timBrown,
