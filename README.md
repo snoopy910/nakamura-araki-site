@@ -1,4 +1,4 @@
-# Designo Software Agency
+# Nakamura Araki Software Agency
 
 This is a solution to the [Nakamura Araki multi-page website challenge on Frontend Mentor]. Frontend Mentor challenges help you improve your coding skills by building realistic and beautiful projects.
 
@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- [Designo Live Link](https://nakamura-araki-site.vercel.app/)
+- [Nakamura Araki Live Link](https://nakamura-araki-site.vercel.app/)
 
 ## My process
 

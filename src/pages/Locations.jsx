@@ -9,10 +9,10 @@ const Locations = ({ data }) => {
   return (
     <>
       <Helmet>
-        <title>Locations - Find Our Closest Offices</title>
+        <title>Locations - Find Our Offices</title>
         <meta
           name="description"
-          content="Designo has offices in major cities around the world. Feel free to contact any of our offices to start your project."
+          content="Nakamura Araki has an office in United States. Feel free to start your project."
         />
       </Helmet>
       <main>
