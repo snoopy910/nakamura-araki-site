@@ -17,9 +17,7 @@ const Locations = ({ data }) => {
       </Helmet>
       <main>
         <HiddenHeader>Locate Our Offices</HiddenHeader>
-        <MapCard data={data.canada} />
-        <MapCard data={data.australia} reverse />
-        <MapCard data={data.uk} />
+        <MapCard data={data.us} />
         <CtaSection data={ctaData} />
       </main>
     </>
