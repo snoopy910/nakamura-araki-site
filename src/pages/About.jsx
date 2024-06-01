@@ -12,11 +12,11 @@ const About = ({ data }) => {
         <title>About - We Are More Than a Brand</title>
         <meta
           name="description"
-          content="Founded in 2010, we are a creative agency that produces lasting results for our clients. We’ve partnered with many startups, corporations, and nonprofits alike to craft designs that make real impact."
+          content="I am a creative developer that produces lasting results for our clients. I’ve partnered with many startups, corporations, and nonprofits alike to craft designs that make real impact."
         />
       </Helmet>
       <Main>
-        <HiddenHeader>About Us</HiddenHeader>
+        <HiddenHeader>About Me</HiddenHeader>
         {data && <ContentCard data={data.sectionOne} />}
         {data && <ContentCard reverse light gap data={data.sectionTwo} />}
         {data && <ContentCard light data={data.sectionThree} />}

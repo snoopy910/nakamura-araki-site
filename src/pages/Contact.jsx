@@ -13,7 +13,7 @@ const Contact = () => {
         <title>Contact - We Want to Hear From You</title>
         <meta
           name="description"
-          content="We are always excited to hear from our esteemed customers. Contact us to kick-start your new project."
+          content="We are always excited to hear from our esteemed customers. Contact me to kick-start your new project."
         />
       </Helmet>
       <main>

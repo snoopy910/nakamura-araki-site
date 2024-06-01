@@ -1,7 +1,7 @@
 export const ctaData = {
   header: "Let’s talk about your project",
   subHeader:
-    "Ready to take it to the next level? Contact us today and find out how our expertise can help your business grow.",
+    "Ready to take it to the next level? Contact me today and find out how our expertise can help your business grow.",
   button: {
     title: "get in touch",
     link: "/contact",
