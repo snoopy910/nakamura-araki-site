@@ -1,6 +1,6 @@
 # Designo Software Agency
 
-This is a solution to the [Designo multi-page website challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/designo-multipage-website-G48K6rfUT). Frontend Mentor challenges help you improve your coding skills by building realistic and beautiful projects.
+This is a solution to the [Nakamura Araki multi-page website challenge on Frontend Mentor]. Frontend Mentor challenges help you improve your coding skills by building realistic and beautiful projects.
 
 ## Table of contents
 
@@ -50,13 +50,6 @@ Users should be able to:
 ### What I learned
 
 This is a project I worked on to practice react and react routing. It was fun to build because I had the opportunity to experience how to build reusable and scalable web components like a professional despite the challenging design. It was a good learning experience!
-
-## Author
-
-- Website - [folarin.dev](https://www.folarin.dev)
-- Frontend Mentor - [@folathecoder](https://www.frontendmentor.io/profile/folathecoder)
-- Twitter - [@folathecoder](https://www.twitter.com/folathecoder)
-- Linked - [Folarin Akinloye](https://linkedin.com/in/akinloye-folarin)
 
 ## Acknowledgments
 
