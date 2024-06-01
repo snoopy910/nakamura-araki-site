@@ -84,15 +84,16 @@ export const FooterLogoWrap = styled.div`
 `;
 
 export const FooterLogoLink = styled(Link)`
+  font-size: 30px;
   &:hover {
     border: none;
   }
 `;
 
-export const FooterLogo = styled.img`
-  max-width: 12.625rem;
-  min-height: 0rem;
-`;
+// export const FooterLogo = styled.img`
+//   max-width: 12.625rem;
+//   min-height: 0rem;
+// `;
 
 export const FooterNavWrap = styled.div`
   display: flex;
